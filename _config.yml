@@ -1,9 +1,7 @@
-favicon: null
 name: Buzzards Lounge
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9014337
+typography_spectrum: 0.02329749
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2401434
-  brandStrength: 0.9939463560003787
-  lightness: 0
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.2401434
   rhythmicContrast: 0
-typography_spectrum: 0.02329749
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9014337
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
